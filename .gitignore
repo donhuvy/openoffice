@@ -109,3 +109,4 @@ bazel-*
 user.bazelrc
 *.lock
 
+/dist
