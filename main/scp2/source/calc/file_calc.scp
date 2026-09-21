@@ -130,7 +130,7 @@ File gid_File_Exe_Scalc
     Dir = gid_Brand_Dir_Program;
     Name = EXENAME(scalc);
   #ifdef WNT
-    FileDescription = "%PRODUCTNAME Calc";
+    FileDescription = "BKIT Bảng tính";
     Styles = (PACKED, PATCH_SO_NAME);
   #else
     Styles = (PACKED);

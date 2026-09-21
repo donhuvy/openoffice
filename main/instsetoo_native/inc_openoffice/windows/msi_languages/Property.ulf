@@ -23,16 +23,16 @@
 en-US = "Comment in the Add-Remove-Programs Applet"
 
 [OOO_ARPCONTACTTEMPLATE]
-en-US = "Apache OpenOffice"
+en-US = "Công ty TNHH BKIT Việt Nam"
 
 [OOO_ARPHELPLINKTEMPLATE]
-en-US = "https://www.openoffice.org"
+en-US = "https://bkit.vn"
 
 [OOO_ARPURLINFOABOUTTEMPLATE]
-en-US = "https://www.openoffice.org"
+en-US = "https://donhuvy.com"
 
 [OOO_ARPURLUPDATEINFOTEMPLATE]
-en-US = "https://www.openoffice.org"
+en-US = "https://bkit.vn"
 
 [OOO_STR_NEW_DISPLAY_NAME]
 en-US = "~New"

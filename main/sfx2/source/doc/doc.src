@@ -309,7 +309,7 @@ String STR_AUTOMATICVERSION
 
 String STR_DOCTYPENAME_SW
 {
-	Text [ en-US ] = "Text Document" ;
+	Text [ en-US ] = "BKIT Văn bản" ;
 };
 
 String STR_DOCTYPENAME_SWWEB
@@ -324,12 +324,12 @@ String STR_DOCTYPENAME_SWGLOB
 
 String STR_DOCTYPENAME_SC
 {
-	Text [ en-US ] = "Spreadsheet" ;
+	Text [ en-US ] = "BKIT Bảng tính" ;
 };
 
 String STR_DOCTYPENAME_SI
 {
-	Text [ en-US ] = "Presentation" ;
+	Text [ en-US ] = "BKIT Trình chiếu" ;
 };
 
 String STR_DOCTYPENAME_SD

@@ -4,7 +4,7 @@ Globals
 	{
 		variables
 		{
-			APACHEPROJECTNAME Apache OpenOffice
+			APACHEPROJECTNAME BKIT
 			OOOBASEVERSION 5.1
 			OOOPACKAGEVERSION 5.1.0
 			UREPACKAGEVERSION 5.1.0
@@ -19,10 +19,10 @@ Globals
 			USE_FILEVERSION 1
 			LIBRARYVERSION 10.0.0
 			POOLPRODUCT 1
-			PROGRESSBARCOLOR 14,133,205
+			PROGRESSBARCOLOR 255,0,0
 			PROGRESSSIZE 430,4
 			PROGRESSPOSITION 60,180
-			PROGRESSFRAMECOLOR 207,208,211
+			PROGRESSFRAMECOLOR 255,255,255
 			SHOWPROGRESSFRAME false
 			NATIVEPROGRESS false
 			REGISTRYLAYERNAME Layers
@@ -30,7 +30,7 @@ Globals
 			CREATE_MSP_INSTALLSET 0
 			PACKAGEMAP package_names.txt,package_names_ext.txt
 			WINDOWSPATCHLEVEL 8
-			OOOVENDOR Apache Software Foundation
+			OOOVENDOR Công ty TNHH BKIT Việt Nam
 			AOODOWNLOADNAME 1
 			STARTCENTER_LAYOUT_STYLE 0
 			NOLANGUAGESELECTIONPRODUCT 0
@@ -39,13 +39,13 @@ Globals
 			OOOXMLFILEFORMATNAME OpenOffice.org XML
 			OOOXMLFILEFORMATVERSION 1.0
 			WRITERCOMPATIBILITYVERSIONOOO11 OpenOffice.org 1.1
-			SERVICETAG_PRODUCTNAME Apache OpenOffice 5.1
+			SERVICETAG_PRODUCTNAME BKIT Office 5.1
 			SERVICETAG_PRODUCTVERSION 5.1
-			SERVICETAG_PARENTNAME Apache OpenOffice 5.1
+			SERVICETAG_PARENTNAME BKIT Office 5.1
 			SERVICETAG_SOURCE {buildsource}{minor}(Build:{buildid})
 			SERVICETAG_URN urn:uuid:500061aa-5666-11e0-8e00-080020a9ed93
-			REGISTRATION_HOST https://registration.openoffice.org
-			REGISTRATION_PRODUCT OpenOffice.org
+			REGISTRATION_HOST https://bkit.vn
+			REGISTRATION_PRODUCT BKIT Office
 			REGISTRATION_CID 926117
 		}
 	}
@@ -57,8 +57,8 @@ Apache_OpenOffice
 	{
 		variables
 		{
-			FULLPRODUCTNAME Apache OpenOffice
-			PRODUCTNAME OpenOffice
+			FULLPRODUCTNAME BKIT Office
+			PRODUCTNAME BKIT
 			PRODUCTVERSION 5.1.0
 			PREVIOUS_VERSION 4.1.16
 			PRODUCTEXTENSION
@@ -71,7 +71,7 @@ Apache_OpenOffice
 			ABOUTBOXPRODUCTVERSION 5.1.0
 			BASEPRODUCTVERSION 5.1
 			PCPFILENAME openoffice.pcp
-			UPDATEURL https://ooo-updates.apache.org/aoonext/check.Update
+			UPDATEURL https://bkit.vn/check.Update
 			ADD_INCLUDE_FILES cliureversion.mk,clioootypesversion.mk,userland.txt,version.lst
 			REMOVE_UPGRADE_CODE_FILE upgradecode_remove_ooo.txt
 			ADDSYSTEMINTEGRATION 1
@@ -85,7 +85,7 @@ Apache_OpenOffice
 			OPENSOURCE 1
 			SETSTATICPATH 1
 			AOODOWNLOADNAME 1
-			AOODOWNLOADNAMEPREFIX Apache_OpenOffice
+			AOODOWNLOADNAMEPREFIX BKIT_Office
 			XPDINSTALLER 0
 			BETAUPGRADECODE
 			STUBUPGRADECODE {0E7B27B8-D658-4BF9-98D6-EC361582EB4A}
@@ -97,11 +97,11 @@ Apache_OpenOffice
 			DOWNLOADBITMAP ooobitmap.bmp
 			DOWNLOADSETUPICO aoosetup.ico
 			RELATIVE_PATHES_IN_DDF 1
-			STARTCENTER_ADDFEATURE_URL https://extensions.openoffice.org/
-			STARTCENTER_INFO_URL https://www.openoffice.org
-			STARTCENTER_TEMPLREP_URL https://templates.openoffice.org
+			STARTCENTER_ADDFEATURE_URL https://bkit.vn
+			STARTCENTER_INFO_URL https://bkit.vn
+			STARTCENTER_TEMPLREP_URL https://bkit.vn
 			STARTCENTER_LAYOUT_STYLE 0
-			DICT_REPO_URL https://extensions.openoffice.org/dictionaries
+			DICT_REPO_URL https://bkit.vn/dictionaries
 		}
 		active					1
 		compression				5

@@ -38,8 +38,8 @@
 	<body>
 		<div id="Intro">
 			<h1 id="Welcome" xml:lang="en-US">${PRODUCTNAME} ${PRODUCTVERSION} ReadMe</h1>
-			<p id="LatestUpdates" xml:lang="en-US">For latest updates to this readme file, see <a href="https://www.openoffice.org/welcome/readme.html">https://www.openoffice.org/welcome/readme.html</a></p>
-			<p id="A6" xml:lang="en-US">This file contains important information about this program. Please read this information very carefully before starting work.</p>
+			<p id="LatestUpdates" xml:lang="en-US">BKIT Office - Commercial Office Suite by BKIT Vietnam Co., Ltd. Author: Đỗ Như Vý (<a href="https://donhuvy.com">https://donhuvy.com</a>). Official websites: <a href="https://bkit.vn">https://bkit.vn</a> | <a href="https://famabook.com">https://famabook.com</a>.</p>
+			<p id="A6" xml:lang="en-US">This commercial derivative work is based on Apache OpenOffice and released in compliance with Apache License 2.0.</p>
 			<p id="A7" xml:lang="en-US">The Apache OpenOffice Community, responsible for the development of this product, would like to invite you to participate as a community member. As a new user, you can check out the ${PRODUCTNAME} community site with helpful information at <a href="https://openoffice.apache.org">https://openoffice.apache.org</a></p>
 			<p id="A9" xml:lang="en-US">Also read the sections below about getting involved in the Apache OpenOffice project.</p>
 			<h3 id="A10" xml:lang="en-US">Is ${PRODUCTNAME} really free for any user?</h3>

@@ -16,9 +16,19 @@
  specific language governing permissions and limitations
  under the License.
 -->
+# BKIT Office
 
-# Apache OpenOffice<sup>®</sup>
+Bộ ứng dụng văn phòng thương mại được đóng gói và phát triển bởi **Công ty TNHH BKIT Việt Nam** - Tác giả: **Đỗ Như Vý**.
+- Website chính thức: [https://bkit.vn](https://bkit.vn)
+- Tác giả: [https://donhuvy.com](https://donhuvy.com)
+- Hệ sinh thái: [https://famabook.com](https://famabook.com)
+- Xem chi tiết bản quyền thương mại và hướng dẫn tại [README_BKIT.md](README_BKIT.md).
 
+---
+
+# Apache OpenOffice<sup>®</sup> (Upstream Base)
+
+BKIT Office được xây dựng phái sinh từ dự án mã nguồn mở Apache OpenOffice theo Giấy phép Apache License 2.0.
 The Apache OpenOffice project (AOO) provides a full featured office productivity suite based on open standards.
 It is the continuation of the OpenOffice.org project.
 

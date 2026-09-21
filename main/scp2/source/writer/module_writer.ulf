@@ -20,22 +20,22 @@
  *************************************************************/
 
 [STR_NAME_MODULE_PRG_WRT]
-en-US = "%PRODUCTNAME Writer"
+en-US = "BKIT Văn bản"
 
 [STR_DESC_MODULE_PRG_WRT]
-en-US = "Create and edit text and graphics in letters, reports, documents and Web pages by using %PRODUCTNAME Writer."
+en-US = "Soạn thảo, định dạng văn bản và tài liệu bằng BKIT Văn bản."
 
 [STR_NAME_MODULE_PRG_WRT_BIN]
-en-US = "Program Module"
+en-US = "Mô-đun chương trình"
 
 [STR_DESC_MODULE_PRG_WRT_BIN]
-en-US = "The application %PRODUCTNAME Writer"
+en-US = "Ứng dụng BKIT Văn bản"
 
 [STR_NAME_MODULE_PRG_WRT_HELP]
-en-US = "%PRODUCTNAME Writer Help"
+en-US = "Trợ giúp BKIT Văn bản"
 
 [STR_DESC_MODULE_PRG_WRT_HELP]
-en-US = "Help about %PRODUCTNAME Writer"
+en-US = "Tài liệu trợ giúp về BKIT Văn bản"
 
 [STR_NAME_MODULE_PRG_WRT_WRITER2LATEX]
 en-US = "LaTeX Export"

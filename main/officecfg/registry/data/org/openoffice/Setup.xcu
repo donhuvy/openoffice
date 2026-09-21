@@ -96,7 +96,7 @@
 					<value >scalc</value>
 				</prop>
                 <prop oor:name="ooSetupFactoryUIName">
-                     <value xml:lang="en-US">Calc</value>
+                     <value xml:lang="en-US">BKIT Bảng tính</value>
 				</prop>
 				<prop oor:name="ooSetupFactoryWindowStateConfigRef">
 					<value >CalcWindowState</value>
@@ -184,7 +184,7 @@
 					<value >simpress</value>
 				</prop>
                 <prop oor:name="ooSetupFactoryUIName">
-                    <value xml:lang="en-US">Impress</value>
+                    <value xml:lang="en-US">BKIT Trình chiếu</value>
 				</prop>
 				<prop oor:name="ooSetupFactoryWindowStateConfigRef">
 					<value >ImpressWindowState</value>
@@ -268,7 +268,7 @@
 					<value >sglobal</value>
 				</prop>
                 <prop oor:name="ooSetupFactoryUIName">
-                    <value xml:lang="en-US">Writer</value>
+                    <value xml:lang="en-US">BKIT Văn bản</value>
 				</prop>
 				<prop oor:name="ooSetupFactoryWindowStateConfigRef">
 					<value >WriterGlobalWindowState</value>
@@ -312,7 +312,7 @@
 					<value >swriter</value>
 				</prop>
                 <prop oor:name="ooSetupFactoryUIName">
-                    <value xml:lang="en-US">Writer</value>
+                    <value xml:lang="en-US">BKIT Văn bản</value>
 				</prop>
 				<prop oor:name="ooSetupFactoryWindowStateConfigRef">
 					<value >WriterWindowState</value>

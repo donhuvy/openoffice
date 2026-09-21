@@ -296,15 +296,15 @@ String STR_DESCRIPTION_FOLDER
 };
 String STR_DESCRIPTION_FACTORY_WRITER
 {
-	Text [ en-US ] = "Text Document" ;
+	Text [ en-US ] = "BKIT Văn bản" ;
 };
 String STR_DESCRIPTION_FACTORY_CALC
 {
-	Text [ en-US ] = "Spreadsheet" ;
+	Text [ en-US ] = "BKIT Bảng tính" ;
 };
 String STR_DESCRIPTION_FACTORY_IMPRESS
 {
-	Text [ en-US ] = "Presentation" ;
+	Text [ en-US ] = "BKIT Trình chiếu" ;
 };
 String STR_DESCRIPTION_FACTORY_DRAW
 {

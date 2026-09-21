@@ -239,10 +239,21 @@ String SfxViewFrame::UpdateTitle()
     ::utl::ConfigManager::GetDirectConfigProperty(::utl::ConfigManager::PRODUCTNAME) >>= aProductName;
 
     aTitle += String::CreateFromAscii( " - " );
-    aTitle += String(aProductName);
-    aTitle += ' ';
     ::rtl::OUString aDocServiceName( GetObjectShell()->GetFactory().GetDocumentServiceName() );
-    aTitle += String( GetModuleName_Impl( aDocServiceName ) );
+    ::rtl::OUString aModuleName = GetModuleName_Impl( aDocServiceName );
+    if ( aModuleName.matchIgnoreAsciiCase( aProductName ) )
+    {
+        aTitle += String( aModuleName );
+    }
+    else
+    {
+        aTitle += String( aProductName );
+        if ( aModuleName.getLength() )
+        {
+            aTitle += ' ';
+            aTitle += String( aModuleName );
+        }
+    }
 #ifdef DBG_UTIL
 	::rtl::OUString	aDefault;
 	aTitle += DEFINE_CONST_UNICODE(" [");

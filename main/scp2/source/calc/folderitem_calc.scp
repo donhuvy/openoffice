@@ -24,7 +24,7 @@
 #include "macros.inc"
 
 FolderItem gid_Folderitem_Scalc
-    Name = "%PRODUCTNAME Calc";
+    Name = "BKIT Bảng tính";
     ModuleID = gid_Module_Prg_Calc_Bin;
     FolderID = gid_Folder_Staroffice51;
     FileID = gid_File_Exe_Scalc;

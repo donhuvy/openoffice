@@ -30,7 +30,7 @@ File gid_File_Exe_Swriter
     Dir = gid_Brand_Dir_Program;
     Name = EXENAME(swriter);
   #ifdef WNT
-    FileDescription = "%PRODUCTNAME Writer";
+    FileDescription = "BKIT Văn bản";
     Styles = (PACKED, PATCH_SO_NAME);
   #else
     Styles = (PACKED);

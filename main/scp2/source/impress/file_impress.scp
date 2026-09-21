@@ -57,7 +57,7 @@ File gid_File_Exe_Simpress
     Dir = gid_Brand_Dir_Program;
     Name = EXENAME(simpress);
   #ifdef WNT
-    FileDescription = "%PRODUCTNAME Impress";
+    FileDescription = "BKIT Trình chiếu";
     Styles = (PACKED, PATCH_SO_NAME);
   #else
     Styles = (PACKED);
